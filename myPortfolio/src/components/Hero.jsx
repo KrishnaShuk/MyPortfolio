@@ -1,6 +1,6 @@
 import { HERO_CONTENT } from "../constants/index.js";
 import profilePic from "../assets/KrishnaShukla.jpeg";
-import { motion } from "framer-motion";
+
 const Hero = () => {
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
